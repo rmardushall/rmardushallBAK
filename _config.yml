@@ -109,7 +109,7 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin-square"
+      icon: "fa fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/rmardushall"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
