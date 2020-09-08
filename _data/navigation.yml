@@ -1,9 +1,13 @@
 # main links
 main:
   - title: "About"
-    url: https://rmardushall.github.io/about/    
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: https://rmardushall.github.io/about/  
+  - title: "Publications"
+    url: https://rmardushall.github.io/publications/
+  - title: "Resume/CV"
+    url: https://rmardushall.github.io/resumecv/
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
