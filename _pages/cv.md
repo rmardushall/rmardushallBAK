@@ -1,9 +1,9 @@
 ---
 layout: archive
 title: "CV"
-permalink: /resumecv/
+permalink: /cv/
 author_profile: true
-redirect_from:
+redirect_frrom:
   - /resume
 ---
 

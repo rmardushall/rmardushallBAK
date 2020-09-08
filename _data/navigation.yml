@@ -4,8 +4,8 @@ main:
     url: https://rmardushall.github.io/about/  
   - title: "Publications"
     url: https://rmardushall.github.io/publications/
-  - title: "Resume/CV"
-    url: https://rmardushall.github.io/resumecv/
+  - title: "CV"
+    url: https://rmardushall.github.io/cv/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
